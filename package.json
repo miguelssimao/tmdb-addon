@@ -1,7 +1,7 @@
 {
   "name": "tmdb-addon",
   "version": "3.0.10",
-  "description": "Metadata provided by TMDB",
+  "description": "An edited version of The Movie Database Addon, with different category names",
   "main": "server.js",
   "dependencies": {
     "cache-manager": "^3.6.3",
